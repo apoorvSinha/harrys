@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">harrys</string>
+    <string name="enter_the_kg_value">Enter the KG Value</string>
+    <string name="convert">Convert</string>
+</resources>
